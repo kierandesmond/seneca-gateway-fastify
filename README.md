@@ -1,5 +1,5 @@
-# @seneca/gateway-express
-Handle incoming messages within express, defining an endpoint that accepts Seneca messages.
+# @seneca/gateway-fastify
+Handle incoming messages within fastify, defining an endpoint that accepts Seneca messages.
 
 [![npm version](https://img.shields.io/npm/v/@seneca/gateway-express.svg)](https://npmjs.com/package/@seneca/gateway-express)
 [![build](https://github.com/senecajs/seneca-gateway-express/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-gateway-express/actions/workflows/build.yml)
